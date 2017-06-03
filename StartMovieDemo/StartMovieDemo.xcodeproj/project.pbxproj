@@ -210,7 +210,7 @@
 		5BF031331DB0A9AC00007F60 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = JmoVxia;
 				TargetAttributes = {
 					5BF0313A1DB0A9AC00007F60 = {
@@ -361,6 +361,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -409,6 +410,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -526,6 +528,7 @@
 				5BF0316A1DB0A9AC00007F60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BF0316B1DB0A9AC00007F60 /* Build configuration list for PBXNativeTarget "StartMovieDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +537,7 @@
 				5BF0316D1DB0A9AC00007F60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BF0316E1DB0A9AC00007F60 /* Build configuration list for PBXNativeTarget "StartMovieDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +546,7 @@
 				5BF031701DB0A9AC00007F60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
